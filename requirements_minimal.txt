@@ -1,0 +1,26 @@
+# Core HTTP and API libraries
+requests>=2.31.0
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+pandas-ta>=0.3.14b
+
+# AI and Machine Learning
+groq>=0.4.0
+
+# Authentication and Security (for IBKR API)
+PyJWT>=2.8.0
+cryptography>=41.0.0
+
+# Data visualization and charting
+plotly>=5.15.0
+
+# Web automation and screenshot generation
+playwright>=1.40.0
+
+# Scheduling and time management
+schedule>=1.2.0
+
+# Environment variables
+python-dotenv>=1.0.0 
